@@ -55,7 +55,7 @@
 }
 
 .jumbotron4{
-	background-image: url(../imagesfinal/city.jpg);
+	background-image: url(https://github.com/hideoda/hideoda/blob/main/city.jpg?raw=true);
 	background-size: contain;
 	background-position: 
 }
@@ -78,7 +78,7 @@ figure img:hover{
 
 
 .jumbotron2{
-	background-image: url(../imagesfinal/myroom.jpg);
+	background-image: url(https://github.com/hideoda/hideoda/blob/main/myroom.jpg?raw=true);
 	background-size: cover;
 	background-position: top: ;
 }
